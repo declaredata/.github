@@ -6,4 +6,4 @@ This is the official github home for the Spark-compatible [DeclareData Fuse Serv
 💰 Cut cloud costs by 50%+ without compromising speed \
 😄 Accelerate data engineering workflows and boost team productivity \
 ✨ Use your existing Spark code \
-💫 Simplify operations—less complexity
+💫 Simplicity—it just runs without unnecessary complexity
